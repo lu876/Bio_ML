@@ -21,7 +21,7 @@ Replace `your_environment_name` with your desired environment name.
 
 ### Step 2: Download the Dataset
 
-Please download it from the provided [Click Here](http://example.com) and place the files in the `data/1D` directory within this repository.
+Please download it from the provided [Click Here](https://drive.google.com/file/d/1xrUcrqLRDz2F2e05OHBh5cIlQ3_AMqvb/view?usp=sharing) and place the files in the `data/1D` directory within this repository.
 
 
 ### Step 3: Train the Network
