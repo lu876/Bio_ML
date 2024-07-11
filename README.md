@@ -1,4 +1,4 @@
-# Bio_project
+# Modeling biological signals with invertible neural networks
 
 This is the official repository for the implementation of our bio_project. 
 
@@ -21,7 +21,7 @@ Replace `your_environment_name` with your desired environment name.
 
 ### Step 2: Download the Dataset
 
-Please download it from the provided [Click Here](https://drive.google.com/file/d/1xrUcrqLRDz2F2e05OHBh5cIlQ3_AMqvb/view?usp=sharing) and place the files in the `data/1D` directory within this repository.
+We will release the dataset upon the publication of our paper. In the meantime, you can use the synthetic data to test the model.
 
 
 ### Step 3: Train the Network
@@ -45,4 +45,9 @@ run INNencoder-test.ipynb
 ```
 
 Follow the instructions in `INNencoder-test.ipynb` to execute the test procedures.
+
+
+### Acknowledgments
+We developed our Invertible Neural Network (INN) leveraging the framework provided by [FrEIA](https://github.com/vislearn/FrEIA) on GitHub.
+
 
