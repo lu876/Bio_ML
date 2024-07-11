@@ -21,7 +21,13 @@ Replace `your_environment_name` with your desired environment name.
 
 ### Step 2: Download the Dataset
 
-We will release the dataset upon the publication of our paper. In the meantime, you can use the synthetic data to test the model.
+We will release the dataset upon the publication of our paper. In the meantime, you can use the synthetic data to test the model. For synthetic data generation, please run the script:
+
+```
+cd 1D data
+run Syn.ipynb
+```
+Please change the filename in INNencoder.py to run the synthetic data. 
 
 
 ### Step 3: Train the Network
