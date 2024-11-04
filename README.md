@@ -1,5 +1,4 @@
-# Modeling biological signals with invertible neural networks
-
+# Inverse Problem Antidote (IPA): Modeling of Systems Biology Model with Invertible Neural Networks
 This is the official repository for the implementation of our bio_project. 
 
 ## Getting Started
