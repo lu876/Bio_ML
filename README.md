@@ -58,7 +58,7 @@ Follow the instructions in `INNencoder-test.ipynb` to execute the test procedure
 ### Acknowledgments
 We developed our Invertible Neural Network (INN) leveraging the framework provided by [FrEIA](https://github.com/vislearn/FrEIA) on GitHub.
 
-## Citation
+### Citation
 
 If you find this repository useful, please consider citing our work:
 
