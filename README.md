@@ -1,6 +1,9 @@
 # Inverse Problem Antidote (IPA): Modeling of Systems Biology Model with Invertible Neural Networks
 This is the official repository for the implementation of our [BIBM workshop paper](https://ieeexplore.ieee.org/abstract/document/10822632/?casa_token=lCdROsfjNxIAAAAA:xAHR0jApJnX8yvVhbvZKHra-X0kw1jmDTjFMFfiOpcSLS4hwX6y1hG0YDrhEBvrAyiIBA8xK). 
 
+![Our proposed learning framework](Figures/framework.jpg)
+
+
 ## Getting Started
 
 Follow these steps to set up your environment and replicate the results:
