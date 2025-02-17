@@ -58,6 +58,19 @@ Follow the instructions in `INNencoder-test.ipynb` to execute the test procedure
 ### Acknowledgments
 We developed our Invertible Neural Network (INN) leveraging the framework provided by [FrEIA](https://github.com/vislearn/FrEIA) on GitHub.
 
+## Citation
+
+If you find this repository useful, please consider citing our work:
+
+```bibtex
+@INPROCEEDINGS{10822632,
+  author={Li, Linlin and Lu, Shenyu and Umulis, David M. and Wang, Xiaoqian},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={Inverse Problem Antidote (IPA): Modeling of Systems Biology Model with Invertible Neural Networks}, 
+  year={2024},
+  pages={6218-6225},
+  keywords={Training;Inverse problems;Biological system modeling;Computational modeling;Neural networks;Biological processes;Predictive models;Mathematical models;Data models;Optimization;Invertible modeling;PDE;Systems Biology Model},
+  doi={10.1109/BIBM62325.2024.10822632}}
 
 
 
