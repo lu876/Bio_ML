@@ -1,5 +1,5 @@
 # Inverse Problem Antidote (IPA): Modeling of Systems Biology Model with Invertible Neural Networks
-This is the official repository for the implementation of our bio_project. 
+This is the official repository for the implementation of our [BIBM workshop paper](https://ieeexplore.ieee.org/abstract/document/10822632/?casa_token=lCdROsfjNxIAAAAA:xAHR0jApJnX8yvVhbvZKHra-X0kw1jmDTjFMFfiOpcSLS4hwX6y1hG0YDrhEBvrAyiIBA8xK). 
 
 ## Getting Started
 
@@ -54,5 +54,8 @@ Follow the instructions in `INNencoder-test.ipynb` to execute the test procedure
 
 ### Acknowledgments
 We developed our Invertible Neural Network (INN) leveraging the framework provided by [FrEIA](https://github.com/vislearn/FrEIA) on GitHub.
+
+
+
 
 
